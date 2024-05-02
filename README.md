@@ -5,4 +5,4 @@ Mengimplementasikan sedikit logika dari beberapa permainan yang sudah ada tentan
 
 ---
 <br/>
-![Alt Text](https://github.com/nadqz/uts_prak.pbo/blob/main/Screenshoot/Screenshoot_UTS.jpg?raw=true) 
+![Alt Text](https://github.com/nadqz/uts_prak.pbo/blob/main/Screenshoot/Screenshoot_UTS.jpg) 
